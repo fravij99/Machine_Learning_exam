@@ -1,4 +1,4 @@
-# Machine Learning exam
+# Machine Learning exam 🐧
 
 This is a computational project I wrote for the Machine learning exam. I used a biological dataset I found on Kaggle.com.
 It contains information regarding the physical and origin characteristics of three different species of Antarctic penguins 🐧.
